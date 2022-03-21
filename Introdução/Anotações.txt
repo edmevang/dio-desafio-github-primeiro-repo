@@ -1,0 +1,26 @@
+Link para download do Git: https://git-scm.com/downloads
+
+
+O Git Bash é um terminal extendido para otimizar o uso do Git.
+
+
+Outro site legal para visualizar comandos para a linguagem de marcação Markdown para melhorar o README.md : https://www.markdownguide.org/basic-syntax/
+
+
+Alguns comandos úteis do git para user usados no terminal:
+
+git clone nome-repositório-remoto: clonar repositório do github para a máquina local
+
+git status
+
+# adicionar os arquivos mudados 
+git add .
+git add -A
+
+git commit -m "Inclusão das anotações do curso de Git/GitHub"
+
+git status
+
+git push origin main
+
+
