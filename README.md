@@ -1,5 +1,5 @@
 # Repositório do Desafio do Projeto de Git e GitHub da DIO.me
-Repositório criado agrupar os desafios dos Projetos realizados nos Bootcamps e cursos livres da DIO.me
+Repositório criado para agrupar os desafios dos Projetos realizados nos Bootcamps e cursos livres da DIO.me
 
 # Bootcamps
 ## Dados
