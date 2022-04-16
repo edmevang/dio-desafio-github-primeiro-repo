@@ -5,7 +5,7 @@ Repositório criado para agrupar os desafios dos Projetos realizados nos Bootcam
 ## Dados
 1. **Cognizant Cloud Data Engineer #2**
    1. **Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso** <https://github.com/edmevang/dio-desafio-github-primeiro-repo>
-   2. **Descomplicando a criação de pacotes de processamento de imagens em Python**
+   2. **Descomplicando a criação de pacotes em Python - Pypi**  <https://github.com/edmevang/desafio-dio-criacao-pacotes-python>
    3. **MySql - Como modelar um banco de controle de séries assistidas** <https://github.com/edmevang/desafio-dio-modelagem-banco-series-assistidas>
    4. **Criando um Ecossistema Hadoop Totalmente Gerenciado com Google Cloud Dataproc** <https://github.com/edmevang/gcp-dataproc-dio>
 
