@@ -2,6 +2,9 @@
 Repositório criado para agrupar os desafios dos Projetos realizados nos Bootcamps e cursos livres da DIO.me
 
 # Bootcamps
+## Linux
+1. **Linux Experience**
+   1. **Infraestrutura como Código: Script de Criação de Estrutura de Usuários, Diretórios e Permissões** <https://github.com/edmevang/desafio-dio-Linux-IaC>
 ## Dados
 1. **Cognizant Cloud Data Engineer #2**
    1. **Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso** <https://github.com/edmevang/dio-desafio-github-primeiro-repo>
@@ -13,7 +16,6 @@ Repositório criado para agrupar os desafios dos Projetos realizados nos Bootcam
    1. **Análise de dados com Python e Pandas** <https://github.com/edmevang/open_datasus_am_python_pandas>
    2. **Criando um Ecossistema Hadoop Totalmente Gerenciado com Google Cloud Dataproc** <https://github.com/edmevang/gcp-dataproc-dio>
    3. **Criando seu Ecossistema de Big Data na Nuvem** <https://github.com/edmevang/dio-aws-big-data-desafio-word-count.git>
-
 
 3. **Banco Carrefour Data Engineer**
    1. **Análise de dados com Python e Pandas** <https://github.com/edmevang/open_datasus_am_python_pandas>
