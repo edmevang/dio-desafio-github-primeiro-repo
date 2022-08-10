@@ -5,6 +5,9 @@ Repositório criado para agrupar os desafios dos Projetos realizados nos Bootcam
 ## Linux
 1. **Linux Experience**
    1. **Infraestrutura como Código: Script de Criação de Estrutura de Usuários, Diretórios e Permissões** <https://github.com/edmevang/desafio-dio-Linux-IaC>
+      Montado um shell-script em Bash que faz o deploy de toda a infra da VM cadastrando usuários, grupos de usuários, diretórios e setando as permissões automaticamente. Foi usada no desenvolvimento uma VM do Ubuntu Server no Virtual Box.
+   2. **Infraestrutura como Código: Script de Provisionamento de um Servidor Web** <https://github.com/edmevang/desafio-dio-Linux-Iac-Servidor-Web>
+       Shell-script em Bash que provisiona um servidor Linux Web, clona um projeto de site e o coloca na página padrão do Apache>
 ## Dados
 1. **Cognizant Cloud Data Engineer #2**
    1. **Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso** <https://github.com/edmevang/dio-desafio-github-primeiro-repo>
