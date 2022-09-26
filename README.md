@@ -16,6 +16,7 @@ Repositório criado para agrupar os desafios dos Projetos realizados nos Bootcam
    1. **Refinando um Projeto Conceitual de Banco de Dados - E-Commerce** <https://github.com/edmevang/desafio-dio-projeto-conceitual-bd-ecommerce>
    2. **Desafio - Construindo um Esquema Conceitual do Zero** <https://github.com/edmevang/desafio-dio-esquema-conceitual-bd-oficina>
    3. **Desafio - Construindo seu Primeiro Projeto Lógico de Banco de Dados - E-Commerce** <https://github.com/edmevang/desafio-projeto-logico-ecommerce>
+   4. **Desafio - Construa um Projeto Lógico de Banco de Dados do Zero - Oficina** <https://github.com/edmevang/desafio-dio-projeto-logico-banco-dados-oficina>
 2. **Cognizant Cloud Data Engineer #2**
    1. **Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso** <https://github.com/edmevang/dio-desafio-github-primeiro-repo>
    2. **Descomplicando a criação de pacotes em Python - Pypi**  <https://github.com/edmevang/desafio-dio-criacao-pacotes-python>
