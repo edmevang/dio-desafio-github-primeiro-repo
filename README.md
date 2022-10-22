@@ -43,6 +43,10 @@ Repositório criado para agrupar os desafios dos Projetos realizados nos Bootcam
    1. **Análise de dados com Python e Pandas** <https://github.com/edmevang/open_datasus_am_python_pandas>
    2. **Criando um Ecossistema Hadoop Totalmente Gerenciado com Google Cloud Dataproc** <https://github.com/edmevang/gcp-dataproc-dio>
 
+## .NET
+1. **Pottencial .NET Developer**
+   1. **Construindo um Sistema para um Estacionamento com C#** <https://github.com/edmevang/trilha-net-fundamentos-desafio>
+
 ## Web
 
 1. **Avanade Fullstack Developer**
