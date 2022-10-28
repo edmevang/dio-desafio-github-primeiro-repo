@@ -46,6 +46,7 @@ Repositório criado para agrupar os desafios dos Projetos realizados nos Bootcam
 ## .NET
 1. **Pottencial .NET Developer**
    1. **Construindo um Sistema para um Estacionamento com C#** <https://github.com/edmevang/trilha-net-fundamentos-desafio>
+   2. **Construindo um sistema de hospedagem de um hotel no C#** <https://github.com/edmevang/trilha-net-explorando-desafio>
 
 ## Web
 
