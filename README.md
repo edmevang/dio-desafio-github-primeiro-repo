@@ -44,10 +44,12 @@ Repositório criado para agrupar os desafios dos Projetos realizados nos Bootcam
    2. **Criando um Ecossistema Hadoop Totalmente Gerenciado com Google Cloud Dataproc** <https://github.com/edmevang/gcp-dataproc-dio>
 
 ## .NET
+
 1. **Pottencial .NET Developer**
    1. **Construindo um Sistema para um Estacionamento com C#** <https://github.com/edmevang/trilha-net-fundamentos-desafio>
    2. **Construindo um sistema de hospedagem de um hotel no C#** <https://github.com/edmevang/trilha-net-explorando-desafio>
    3. **Criando um Sistema e Abstraindo um Celular com POO em C#** <https://github.com/edmevang/trilha-net-poo-desafio>
+   4. **Construindo um Sistema de Agendamento de Tarefas com Entity Framework** <https://github.com/edmevang/trilha-net-api-desafio>
 
 ## Web
 
