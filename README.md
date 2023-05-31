@@ -4,6 +4,18 @@ Repositório criado para agrupar os desafios dos Projetos realizados nos Bootcam
 
 # Bootcamps
 
+## AWS
+1. **Cloud AWS**
+   1. **Adicionando Segurança em APIs na AWS com Amazon Cognito** <https://github.com/edmevang/dio-live-cognito>
+   Neste desafio descrito no README.md foi proposto como:
+    Utilizar os serviços Amazon Cognito, DynamoDB, API Gateway e AWS Lambda;
+    Criar uma API REST no Amazon API Gateway;
+    Criar tabela no Amazon DynamoDB;
+    Criar funções no AWS Lambda;
+    Integrar o API Gateway com o Lambda backend;
+    Utilizar a ferramenta No POSTMAN;
+    Criar um autorizador do Amazon Cognito para uma API REST no Amazon API Gateway.
+
 ## Linux
 
 1. **Linux Experience**
