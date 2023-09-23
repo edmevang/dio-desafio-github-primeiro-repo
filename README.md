@@ -32,6 +32,7 @@ Repositório criado para agrupar os desafios dos Projetos realizados nos Bootcam
    1. **Criando um Relatório de Vendas Elegante com Power BI** <https://github.com/edmevang/power_bi_analyst>
    2. **Explorando IA Generativa em um Pipeline de ETL com Python** <https://github.com/edmevang/santander-dev-week-2023-api-ETL-IA-GPT-4-PYTHON>
    3. **Contribuindo em um Projeto Open Source no GitHub** <https://github.com/edmevang/dio-lab-open-source>
+   4. **Processando e Transformando Dados com Power BI** <https://github.com/edmevang/power_bi_analyst>
 2. **Geração Tech Unimed-BH - Ciência de Dados**
    1. **Criando modelos com Python e Machine Learning para prever a evolução do COVID-19 no Brasil** <https://github.com/edmevang/desafio-dio-python-ml-evolucao-covid-19>
    2. **Explorando dados demográficos com serviços de big data na AWS** <https://github.com/edmevang/dio-live-athena-dados-demograficos-big-data-aws>
