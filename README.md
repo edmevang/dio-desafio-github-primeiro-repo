@@ -7,7 +7,8 @@ Repositório criado para agrupar os desafios dos Projetos realizados nos Bootcam
 ## Dados
 1. **NTT DATA - Engenharia de Dados com Python**
    1. **Analisando dados de um Dashboard de Vendas no Power BI** <https://github.com/edmevang/desafio-dio-analise-dados-vendas-power-bi>
-   1. **Dashboard de Vendas com Power BI utilizando Star Schema** <https://github.com/edmevang/desafio-dio-vendas-pbi-star-schema>
+   2. **Dashboard de Vendas com Power BI utilizando Star Schema** <https://github.com/edmevang/desafio-dio-vendas-pbi-star-schema>
+   3. **Modelando um Dashboard de E-commerce com Power BI Utilizando Fórmulas DAX** <https://github.com/edmevang/desafio-dio-vendas-pbi-star-schema>
    
 2. **Python AI Backend Developer**
    1. **Desafio: Criando um sistema bancário em Python** <https://github.com/edmevang/desafio-sistema-bancario-python>
