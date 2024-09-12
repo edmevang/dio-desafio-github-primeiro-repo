@@ -6,12 +6,13 @@ Repositório criado para agrupar os desafios dos Projetos realizados nos Bootcam
 
 ## Dados
 1. **NTT DATA - Engenharia de Dados com Python**
-   1. **Analisando dados de um Dashboard de Vendas no Power BI**<https://github.com/edmevang/desafio-dio-analise-dados-vendas-power-bi>
+   1. **Analisando dados de um Dashboard de Vendas no Power BI** <https://github.com/edmevang/desafio-dio-analise-dados-vendas-power-bi>
+   1. **Dashboard de Vendas com Power BI utilizando Star Schema** <https://github.com/edmevang/desafio-dio-vendas-pbi-star-schema>
    
 2. **Python AI Backend Developer**
-   1. **Desafio: Criando um sistema bancário em Python**<https://github.com/edmevang/desafio-sistema-bancario-python>
-   2. **Desafio: Otimizando um sistema bancário em Python**<https://github.com/edmevang/desafio-sistema-bancario-python-otimizado>
-   3. **Desafio: Modelando o Sistema Bancário em POO com Python**<https://github.com/edmevang/desafio-sistema-bancario-python-poo>
+   1. **Desafio: Criando um sistema bancário em Python** <https://github.com/edmevang/desafio-sistema-bancario-python>
+   2. **Desafio: Otimizando um sistema bancário em Python** <https://github.com/edmevang/desafio-sistema-bancario-python-otimizado>
+   3. **Desafio: Modelando o Sistema Bancário em POO com Python** <https://github.com/edmevang/desafio-sistema-bancario-python-poo>
 3. **Santander BootCamp 2023 - Ciência de Dados com Python**
    1. **Criando um Relatório de Vendas Elegante com Power BI** <https://github.com/edmevang/power_bi_analyst>
    2. **Explorando IA Generativa em um Pipeline de ETL com Python** <https://github.com/edmevang/santander-dev-week-2023-api-ETL-IA-GPT-4-PYTHON>
