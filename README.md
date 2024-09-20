@@ -10,6 +10,7 @@ Repositório criado para agrupar os desafios dos Projetos realizados nos Bootcam
    2. **Dashboard de Vendas com Power BI utilizando Star Schema** <https://github.com/edmevang/desafio-dio-vendas-pbi-star-schema>
    3. **Modelando um Dashboard de E-commerce com Power BI Utilizando Fórmulas DAX** <https://github.com/edmevang/desafio-dio-vendas-modelagem-pbi-dax>
    4. **Criando um Dashboard Gerencial para Tomada de Decisões Com Power BI** <https://github.com/edmevang/desafio-dio-vendas-dashboard-gerencial-pbi>
+   5. **Criando um Relatório Vendas e Lucros com Data Analytics com Power BI** <https://github.com/edmevang/desafio-dio-projeto-relatorio-vendas-lucro-powerbi>
    
 2. **Python AI Backend Developer**
    1. **Desafio: Criando um sistema bancário em Python** <https://github.com/edmevang/desafio-sistema-bancario-python>
